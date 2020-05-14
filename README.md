@@ -1,5 +1,5 @@
 # MatrixCalc-Project
-Matrix operations toolbox written in C++
+Matrix operations toolbox written in C++. This toolbox can be used currently for demonstrations.
 
 HOW TO:
 
